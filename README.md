@@ -50,11 +50,11 @@ User is unable to print document
 
 ### Symptoms
 
--Document remains in print queue
+- Document remains in print queue
 
--Printer shows as offline
+- Printer shows as offline
 
--Nothing comes out of printer
+- Nothing comes out of printer
 
 ### Troubleshooting
 
@@ -72,9 +72,9 @@ The print queue has been cleared and the printer successfully printed a test doc
 
 ### Tools Used
 
--Windows Settings
+- Windows Settings
 
--Print Manager
+- Print Manager
 
 
 ---
