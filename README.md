@@ -40,7 +40,7 @@ For each problem, I follow a structured troubleshooting process:
 
 ---
 
-# 📝 Troubleshooting Documentation Example
+# Troubleshooting Documentation Example
 
 ## Printer Not Working
 
@@ -70,8 +70,8 @@ The print queue has been cleared and the printer successfully printed a test doc
 
 ### Tools Used
 
-- Windows Settings
-- Print Manager
+-Windows Settings
+-Print Manager
 
 
 ---
