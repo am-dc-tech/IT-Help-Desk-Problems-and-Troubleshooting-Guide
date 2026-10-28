@@ -8,7 +8,6 @@ A small collection of IT help desk problems and how to troubleshoot them. This i
 
 ## 📋 Troubleshooting Scenarios
 
-|---|---|---|---|---|
 | # | 🛠️ **Help Desk Scenario** | **User Problem** | **Troubleshooting Approach** | **Tools / Technologies** |
 |---|---|---|---|---|
 | 1 | 🔑 **Reset User Password** | User is unable to sign in or their password has expired | Confirm account status, reset the password, and verify successful login | Active Directory |
