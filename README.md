@@ -69,12 +69,6 @@ User is unable to print document
 
 The print queue has been cleared and the printer successfully printed a test document
 
-### Tools Used
-
-- Windows Settings
-
-- Print Manager
-
 
 ---
 
